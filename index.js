@@ -18,13 +18,13 @@
 //
 // a == b -> una comparacion, el resultado es uno de verdad O falso
 //
-// a = 0;
-// test = a == 5;
 //
 //
 //
 // CONDITIONALS
 //
+// a = 0;
+// test = a == 5;
 // if (test) {
 //     a = 1;
 // }
@@ -44,10 +44,9 @@
 // console.log(a);
 //
 // for (i = 0; i < list.length; i = i + 2) {
-//     console.log(list[1]);
+//     console.log(list[i]);
 // }
 // console.log(i);
-//
 //
 
 
